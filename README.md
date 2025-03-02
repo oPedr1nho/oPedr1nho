@@ -98,7 +98,7 @@ Olá, me chamo Pedro Rizzato, tenho 19 anos e sou natural de Santo André-SP. At
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="110" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPedr1nho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
